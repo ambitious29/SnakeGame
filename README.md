@@ -26,16 +26,16 @@ Installation
 Clone the repository:
 
 ##Copy code
-git clone https://github.com/yourusername/snake-game.git
+git clone https://github.com/ambitious29/SnakeGame
 Compile the code using your preferred C++ compiler.
 
 ##Copy code
-g++ snake_game.cpp -o snake_game
+g++ SnakeGame.cpp -o snake_game
 Usage
 Run the executable to start the game:
 
 ##Copy code
-./snake_game
+./SnakeGame
 Use the arrow keys (up, down, left, right) to control the snake's direction. Try to collect as much food as possible without crashing into walls or the snake's body.
 
 ##Contributing
